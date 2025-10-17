@@ -1,0 +1,10 @@
+{
+    "idf.espIdfPathWin": "C:\\Users\\ZHAO\\esp\\v5.2\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\ZHAO\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\ZHAO\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.portWin": "COM17",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.flashType": "UART"
+}
